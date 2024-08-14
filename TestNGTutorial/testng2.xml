@@ -4,6 +4,8 @@
 
     <test name="Personal loan">
     <test name="Personal loan1">
+        <test name="Personal loan2">
+
     </test>
   <packages>
       <package name= "test"/>
